@@ -25,26 +25,9 @@ You will be scored on:
 Create a solution that stores the content below in an Open Source database of your choice then makes it available to search via an API.
 
 Table 1: table_video_viewing
-dt,name,content_title,content_season_number,content_episode_number,content_time_spent_sec
-
-2021-09-01 05:00:01, Joe, Ruthless, 1, 1, 1000,
-2021-09-01 07:00:01, Joe, House of Payne, 5, 5, 1005,
-2021-09-02 12:00:01, Joe, Ruthless, 1, 2, 1005,
-2021-09-05 12:00:04, Joe, Bruh, 1, 1, 2000,
-2021-08-01 05:00:01, Mary, All The Queens Men, 1, 1, 1000,
-2021-08-14 07:00:01, Mary, All The Queens Men, 1, 2, 1005,
-2021-09-17 12:00:01, Jane, Ruthless, 1, 1, 1005,
-2021-09-18 12:00:04, Jane, Ruthless, 1, 2, 2000
 
 Table 2: table_account_info
-name,date_started,account_type
 
-Mary, 2021-07-31 05:00:01,free,
-Mary, 2021-08-13 05:00:01,premium,
-Joe, 2021-08-31 05:00:01,free,
-Jane, 2021-09-01 05:00:01,free,
-Jane, 2021-09-10 05:00:01,closed,
-Jane, 2021-09-16 05:00:01,free
 
 # Details
 - Q1: Write a query that will return the first title watched for each user.
