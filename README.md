@@ -1,4 +1,4 @@
-# DataEngineer Coding challenge
+# Data Engineer Coding Challenge
 This page contains a coding challenge for Data Engineering roles at STAND 8.
 
 # Purpose
