@@ -1,0 +1,7 @@
+name,date_started,account_type
+Mary, 2021-07-31 05:00:01,free
+Mary, 2021-08-13 05:00:01,premium
+Joe, 2021-08-31 05:00:01,free
+Jane, 2021-09-01 05:00:01,free
+Jane, 2021-09-10 05:00:01,closed
+Jane, 2021-09-16 05:00:01,free
