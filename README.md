@@ -25,8 +25,8 @@ You will be scored on:
 Create a solution that stores the content below in an Open Source database of your choice then makes it available to search via an API.
 
 Table 1: table_video_viewing
-
 dt,name,content_title,content_season_number,content_episode_number,content_time_spent_sec
+
 2021-09-01 05:00:01, Joe, Ruthless, 1, 1, 1000,
 2021-09-01 07:00:01, Joe, House of Payne, 5, 5, 1005,
 2021-09-02 12:00:01, Joe, Ruthless, 1, 2, 1005,
@@ -37,8 +37,8 @@ dt,name,content_title,content_season_number,content_episode_number,content_time_
 2021-09-18 12:00:04, Jane, Ruthless, 1, 2, 2000
 
 Table 2: table_account_info
-
 name,date_started,account_type
+
 Mary, 2021-07-31 05:00:01,free,
 Mary, 2021-08-13 05:00:01,premium,
 Joe, 2021-08-31 05:00:01,free,
@@ -51,9 +51,8 @@ Jane, 2021-09-16 05:00:01,free
 - Q2: Write a query that will give me total viewing time in minutes of each title in September 2021.
 - Q3: Write a query that will give me the share of minutes (as a percentage) Ruthless was viewed in September 2021.
 - Q4: Write a query that will give me the share of minutes viewed (as a percentage) with a premium account.
-
-Store the data in a hosted Open Source database for subsequent search and retrieval. 
-Write an API that provides access to the content in the database. 
+- Store the data in a hosted Open Source database for subsequent search and retrieval. 
+- Write an API that provides access to the content in the database. 
 
 # Bonus point
 Deploy the solution as a public API using a cloud solution (either AWS, GCP, or Azure). The free tier is just fine.
