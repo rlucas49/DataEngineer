@@ -15,11 +15,11 @@ You will be scored on:
 4. appropriate use of source control
 
 # Instructions
-•	You may use any Open Source database (i.e. MySQL, PostgreSQL, MariaDB, MongoDB, etc.) for storing results 
-•	Candidate should put their test results on a public code repository hosted on Github
-•	Please include details on how to access the database you create
-•	Once test is completed, please share the Github repository URL with Rich Lucas (rlucas@stand8.io) so he can review your work
-•	You are building a backend application and no UI is required, input can be provided using a configuration file or command line
+- You may use any Open Source database (i.e. MySQL, PostgreSQL, MariaDB, MongoDB, etc.) for storing results 
+- Candidate should put their test results on a public code repository hosted on Github
+- Please include details on how to access the database you create
+- Once test is completed, please share the Github repository URL with Rich Lucas (rlucas@stand8.io) so he can review your work
+- You are building a backend application and no UI is required, input can be provided using a configuration file or command line
 
 # Challenge – User Accounts and Viewing History
 Create a solution that stores the content below in an Open Source database of your choice then makes it available to search via an API.
